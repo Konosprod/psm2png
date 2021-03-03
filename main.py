@@ -44,3 +44,4 @@ if __name__ == "__main__":
         encode(args.file, False)
     else:
         parser.print_usage()
+        
